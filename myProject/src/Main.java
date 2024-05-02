@@ -6,7 +6,6 @@ public class Main {
 
         int numberone;
         int numbertwo;
-        //int multiplication;
         String typeOperations;
         MathOperations mathOperations = new MathOperations();
         Scanner scanner = new Scanner(System.in);
