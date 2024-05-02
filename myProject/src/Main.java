@@ -1,12 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
-
         int numberone;
         int numbertwo;
-        //int multiplication;
         String typeOperations;
         MathOperations mathOperations = new MathOperations();
         Scanner scanner = new Scanner(System.in);
