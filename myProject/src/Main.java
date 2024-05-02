@@ -39,7 +39,6 @@ public class Main {
             else{
                 System.out.println("Ошибка!");
             }
-            scanner.close();
             break;
         }
     }
