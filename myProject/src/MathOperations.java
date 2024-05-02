@@ -14,5 +14,4 @@ public class MathOperations {
     public int divisionMethod(int once, int twice) {
         return once / twice;
     }
-
 }
