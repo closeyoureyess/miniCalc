@@ -36,9 +36,6 @@ public class Main {
                 numbertwo = scanner.nextInt();
                 System.out.println(mathOperations.substractionMethod(numberone, numbertwo));
             }
-            else{
-                System.out.println("Ошибка!");
-            }
             break;
         }
     }
